@@ -1,3 +1,7 @@
-markdown: kramdown
-theme: minima
-name: Test
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - test.md

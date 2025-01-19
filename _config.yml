@@ -7,3 +7,6 @@ relative_links:
   collections: true
 include:
   - test.md
+show_downloads: false
+title: Title
+description: Desc

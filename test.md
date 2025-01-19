@@ -2,8 +2,8 @@
 
 ## _Yaaay für dich_
 
-Freu dich auf wundersame Welten in 3D.
+Freu dich auf wundersame Welten in 3D, du bekommst ein VR Erlebnis geschenkt 🥳
 
-Du hättest gern einen Vorgeschmack? Dann setz die **Brille** 🥽 und schau her.
+Kleiner Vorgeschmack gefällig? OK, es ist nicht ganz das selbe aber setz die **Brille** 🥽 af und sieh zu. 
 
-![overall](https://github.com/user-attachments/assets/abf6138d-b3d8-453b-8654-d8873c250abb)
+https://youtu.be/HnNZCE5HCHA?si=FjdgKJKnAAy9WrgN

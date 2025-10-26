@@ -1,11 +1,11 @@
 plugins:
-  - jekyll-relative-links
   - jekyll-remote-theme
-# remote_theme: pages-themes/cayman@v0.2.0
-remote_theme: daviddarnes/alembic@main
+  # - jekyll-relative-links
+remote_theme: pages-themes/cayman@v0.2.0
+# remote_theme: daviddarnes/alembic@main
 relative_links:
   enabled: true
   collections: true
 show_downloads: false
-title: Default Title
-description: Default Description
+# title: Default Title
+# description: Default Description

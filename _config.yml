@@ -5,8 +5,6 @@ remote_theme: pages-themes/cayman@v0.2.0
 relative_links:
   enabled: true
   collections: true
-include:
-  - test.md
 show_downloads: false
-title: Anaglyph Day
-description: Alles Gute 🥳
+title: Default Title
+description: Default Description
